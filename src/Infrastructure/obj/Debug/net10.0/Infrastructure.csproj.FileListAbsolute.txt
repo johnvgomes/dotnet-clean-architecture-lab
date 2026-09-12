@@ -1,0 +1,16 @@
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\bin\Debug\net10.0\Domain.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\bin\Debug\net10.0\Domain.pdb
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\Infrastructure.sourcelink.json
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll

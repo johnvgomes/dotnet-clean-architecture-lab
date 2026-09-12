@@ -1,0 +1,16 @@
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\bin\Debug\net10.0\Application.deps.json
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\bin\Debug\net10.0\Application.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\bin\Debug\net10.0\Application.pdb
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\bin\Debug\net10.0\Domain.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\bin\Debug\net10.0\Domain.pdb
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\Application.sourcelink.json
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\Application.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\refint\Application.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\Application.pdb
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Application\obj\Debug\net10.0\ref\Application.dll

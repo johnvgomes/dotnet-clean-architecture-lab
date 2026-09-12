@@ -1,0 +1,12 @@
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\bin\Debug\net10.0\Domain.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\bin\Debug\net10.0\Domain.pdb
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\obj\Debug\net10.0\Domain.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\obj\Debug\net10.0\Domain.pdb
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Domain\obj\Debug\net10.0\ref\Domain.dll
