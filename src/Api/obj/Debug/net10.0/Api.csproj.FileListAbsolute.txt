@@ -38,3 +38,9 @@ D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\obj\Debug\net10.0\ref
 D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\obj\Debug\net10.0\Api.pdb
 D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\obj\Debug\net10.0\Api.genruntimeconfig.cache
 D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\obj\Debug\net10.0\ref\Api.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\bin\Debug\net10.0\MediatR.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\bin\Debug\net10.0\MediatR.Contracts.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\MeusProjetos\2026\dotnet-clean-architecture-lab\src\Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
